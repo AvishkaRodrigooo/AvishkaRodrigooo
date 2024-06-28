@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avishkarodrigooo&label=Profile%20views&color=0e75b6&style=flat" alt="avishkarodrigooo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avishkarodrigooo" alt="avishkarodrigooo" /></a> </p>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 - 🌱 I’m currently learning **BSc(Hons).Information Technology**
 
