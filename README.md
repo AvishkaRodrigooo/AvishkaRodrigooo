@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning BSc(Hons). Information Technology
 
-- 👨‍💻 All of my projects are available at [https://avishkarodrigooo.github.io/AvishkaRodrigo/](https://avishkarodrigooo.github.io/AvishkaRodrigo/)
+- 👨‍💻 All of my projects are available at [https://avishkarodrigooo.github.io/AvishkaRodrigo/](https://avishkarodrigooo.github.io/AvishkaRodrig/)
 
 - 📫 How to reach me **avishkalakmal725@gmail.com**
 
