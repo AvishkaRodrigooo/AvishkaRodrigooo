@@ -17,6 +17,7 @@
 - 👨‍💻 All of my projects are available at [Avishka Rodrigo](https://avishkarodrigooo.github.io/AvishkaRodrig/)
 
 - 📫 How to reach me **avishkalakmal725@gmail.com**
+- Mobile Number - 0712489176
 
 - ⚡ Fun fact **Aviz**
 
